@@ -1,7 +1,7 @@
 # hello-world
 Ideas, plans, discussions
 
-# H1 about me 
+# About Me 
 1. 24 years old
 2. Live in Canterbury
 3. Play music 
